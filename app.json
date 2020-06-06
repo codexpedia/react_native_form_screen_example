@@ -1,0 +1,17 @@
+{
+  "name": "reactNativeFormScreenExample",
+  "displayName": "reactNativeFormScreenExample",
+  "expo": {
+    "name": "reactNativeFormScreenExample",
+    "slug": "reactNativeFormScreenExample",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
